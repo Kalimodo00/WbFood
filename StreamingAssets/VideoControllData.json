@@ -1,0 +1,61 @@
+{
+    "VideoName":"測試測試",
+    "VideoState": "123456",
+    "ScoreTorF":0,
+    "videoData": [
+        {
+            "videoPath": "C:/Unity_project/Kalimodo360/Kalimodo360/Assets/StreamingAssets/HL360_2.mp4",
+            "showText_Data": [
+                {
+                    "TextName":"Name",
+                    "showText": [
+                        "顯示文字123"
+                    ],
+                    "showTime": 10,
+                    "disTime": 25
+                },
+                {
+                    "TextName":"Name",
+                    "showText": [
+                        "顯示文字221"
+                    ],
+                    "showTime": 30,
+                    "disTime": 45
+                }
+            ],
+            "showImg_Data": [
+                {
+                    "showImgPath": "C:/Unity_project/Kalimodo360/Kalimodo360/Assets/StreamingAssets/mic.png",
+                    "ImgContant":"圖片解析123qwdqkwefjwoiegjwijeg",
+                    "showTime": 3,
+                    "disTime": 5
+                }
+            ],
+            "chooeseObj_Data": [
+                {
+                    "Title_Text": "Title",
+                    "Options_Text": [
+                        "Options0",
+                        "Options1",
+                        "Options2",
+                        ""
+                    ],
+                    "StopTime": 3,
+                    "Score_TorF": 0,
+                    "Score": 10
+                }
+            ],
+            "micphone_Data": [
+                {
+                    "topic_Text": [
+                        "MicText0",
+                        "MicText1",
+                        "MicText2",
+                        "MicText3"
+                    ],
+                    "StopTime": 3
+                }
+            ]
+        }
+    ]
+}
